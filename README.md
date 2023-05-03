@@ -1,8 +1,9 @@
 # Notas musicais
 
 [![Documentation Status](https://readthedocs.org/projects/notas-musicais-jean/badge/?version=latest)](https://notas-musicais-jean.readthedocs.io/en/latest/?badge=latest)
-![CI](https://github.com/JeanFurman/notas-musicais/actions/workflows/pipeline.yaml)
+[![CI](https://github.com/JeanFurman/notas-musicais/actions/workflows/pipeline.yaml/badge.svg)](https://github.com/JeanFurman/notas-musicais/actions/workflows/pipeline.yaml)
 [![codecov](https://codecov.io/gh/JeanFurman/notas-musicais/branch/master/graph/badge.svg?token=7SJNJ4Y5RL)](https://codecov.io/gh/JeanFurman/notas-musicais)
+
 Notas musicais é um CLI para ajudar na formação de escalas, acordes e campos harmônicos.
 
 Toda a aplicação é baseada em um comando chamado `notas-musicais`. Esse comando tem um subcomando relacionado a cada ação que a aplicação pode realizar. Como `escalas`, `acordes` e `campo-harmonico`
