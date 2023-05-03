@@ -1,5 +1,10 @@
 # Notas musicais
-Notas musis é um CLI para ajudar na formação de escalas, acordes e campos harmônicos.
+
+[![Documentation Status](https://notas-musicais-jean.readthedocs.io/en/latest/)](https://notas-musicais-jean.readthedocs.io/en/latest/)
+[![CI](https://github.com/JeanFurman/notas-musicais/actions/workflows/pipeline.yaml)](https://github.com/JeanFurman/notas-musicais/actions/workflows/pipeline.yaml)
+[![codecov](https://app.codecov.io/gh/JeanFurman/notas-musicais)](https://app.codecov.io/gh/JeanFurman/notas-musicais)
+
+Notas musicais é um CLI para ajudar na formação de escalas, acordes e campos harmônicos.
 
 Toda a aplicação é baseada em um comando chamado `notas-musicais`. Esse comando tem um subcomando relacionado a cada ação que a aplicação pode realizar. Como `escalas`, `acordes` e `campo-harmonico`
 
